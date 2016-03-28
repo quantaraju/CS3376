@@ -1,0 +1,18 @@
+Fellini|Federico|1
+Noel|Magali|2
+Zanin|Bruno|3
+Maggio|Pupella|4
+Drancia|Armando|5
+Mcbride|Jim|6
+Quaid|Dennis|7
+Barkin|Ellen|8
+Beatty|Ned|9
+Persky|Lisa Jane|10
+Goodman|John|11
+Ludlam|Charles|12
+Singleton|John|13
+Gooding|Cuba Jr.|14
+Cube|Ice|15
+Fishburne|Larry|16
+Ferrell|Tyra|17
+Chestnut|Morris|18
